@@ -19,3 +19,6 @@ Admission Information: Date of Admission, Admission Type, Discharge Date, Room N
 
 DASHBOARD
 
+![dashboard](https://github.com/user-attachments/assets/689c266c-70e5-4bf0-af8b-ece839beaf39)
+
+
