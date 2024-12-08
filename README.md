@@ -18,7 +18,7 @@ Admission Information: Date of Admission, Admission Type, Discharge Date, Room N
  I removed "and" from the start or end of hospital names in the Hospital column, standardizing the data for cleaner and more consistent analysis.
 
 DASHBOARD
-
 ![dashboard](https://github.com/user-attachments/assets/689c266c-70e5-4bf0-af8b-ece839beaf39)
+
 
 
